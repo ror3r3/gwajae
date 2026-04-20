@@ -1,7 +1,8 @@
 [index.html](https://github.com/user-attachments/files/26892562/index.html)
-<!DOCTYPE html>
-<html lang="ko">
-<head>
+
+        <!DOCTYPE html>
+        <html lang="ko">
+        <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>나만의 마법 매거진</title>
